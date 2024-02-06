@@ -1,0 +1,11 @@
+header {
+    border: 1px solid black;
+    text-align: center;
+    min-height: 10vh;
+    width: 95%;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(42, 16, 155);
+}

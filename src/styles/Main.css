@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 1px double purple;
+    min-height: 85vh;
+    width: 95%;
+    margin: 0 auto;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    text-align: center;
+}
+

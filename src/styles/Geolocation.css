@@ -1,0 +1,10 @@
+.map {
+    margin: 10px auto;
+    border: 2px solid chocolate;
+    align-items: center;
+    width: 95%;
+}
+
+.map-container div {
+    margin: 20px auto;
+}

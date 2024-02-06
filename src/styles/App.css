@@ -1,0 +1,75 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    min-width: 90%;
+    font-size: 18px;
+    line-height: 0.8;
+}
+
+
+
+@media (min-width: 1200px) {
+    body {
+        font-size: 1.5rem;
+        line-height: 0.7;
+    }
+
+    .map-container div {
+        width: 90% !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        font-size: 1.4rem;
+    }
+
+    .map-container div {
+        width: 90% !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        font-size: 1.3rem;
+    }
+
+    .map-container div {
+        width: 90% !important;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    body {
+        font-size: 1rem;
+    }
+
+    .map-container div {
+        width: 90% !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 479px) {
+    body {
+        font-size: 0.8rem;
+    }
+
+    .map-container div {
+        width: 80% !important;
+        height: 80% !important;
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+        font-size: 0.8rem;
+
+    }
+
+    .map-container div {
+        width: 80% !important;
+        height: 80% !important;
+    }
+
+}

@@ -1,0 +1,31 @@
+table {
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+thead,
+tbody,
+th,
+td {
+    width: 100%;
+    padding: 5px;
+
+}
+
+th {
+    width: 100%;
+}
+
+thead tr {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+tbody tr {
+    display: flex;
+    justify-content: space-around;
+}
